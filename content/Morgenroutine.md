@@ -1,7 +1,7 @@
 ---
 title: "Morgenroutine"
 date: 2019-06-15T22:57:26+02:00
-draft: true
+draft: false
 ---
 
 # Morgenroutine

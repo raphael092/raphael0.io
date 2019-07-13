@@ -5,9 +5,28 @@
     <link>/</link>
     <description>Recent content on Raphael Rieble</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 13 Jul 2019 23:36:17 +0200</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test</title>
+      <link>/test/</link>
+      <pubDate>Sat, 13 Jul 2019 23:36:17 +0200</pubDate>
+      
+      <guid>/test/</guid>
+      <description>123</description>
+    </item>
+    
+    <item>
+      <title>Morgenroutine</title>
+      <link>/morgenroutine/</link>
+      <pubDate>Sat, 15 Jun 2019 22:57:26 +0200</pubDate>
+      
+      <guid>/morgenroutine/</guid>
+      <description> Morgenroutine  Yoga (5-10min) Mobility (5-10min) Handstand (5-10min) Kräftigung (Bentarm/Straightarm) (10-15min) Bauch (5mim) Essen machen (20-30min) Duschen (15-20min) Meditieren (10-20min) Essen (20min) &amp;mdash; Gesamt: 95-140 min  </description>
+    </item>
     
   </channel>
 </rss>
