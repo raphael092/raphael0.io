@@ -12,14 +12,30 @@ pygmentsStyle = "solarized-dark256" # solarized-light, -dark or -dark256
     name = "Feed"
     url = "/"
     weight = "-100"
-  [[menu.other]]
-    name = "Code"
-    url = "https://github.com/raphael092"
-  [[menu.other]]
-    name = "Nextcloud"
-    url = "https://nextcloud.raphael0.io"
   [[menu.main]]
     name = "#bethebestyou"
     url = "http://bethebestyou.de"
     weight = "0"
+  [[menu.other]]
+    name = "Code"
+    url = "https://github.com/raphael092"
+  [[menu.other]]
+    name = "Faceit"
+    url = "https://www.faceit.com/de/players/pawN_0"
+  [[menu.other]]
+    name = "Instagram"
+    url = "https://www.instagram.com/raphael0/"
+  [[menu.other]]
+    name = "Medium"
+    url = "https://medium.com/@raphael0"
+  [[menu.other]]
+    name = "Nextcloud"
+    url = "https://nextcloud.raphael0.io"
+  [[menu.other]]
+    name = "Reddit"
+    url = "https://old.reddit.com/user/raphael_0/"
+  [[menu.other]]
+    name = ""
+    url = ""
 languageCode = "en-us"
+
