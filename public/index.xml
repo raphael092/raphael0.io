@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raphael Rieble</title>
+    <link>/</link>
+    <description>Recent content on Raphael Rieble</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 18 Jul 2019 20:09:34 +0200</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Powershake</title>
+      <link>/powershake/</link>
+      <pubDate>Thu, 18 Jul 2019 20:09:34 +0200</pubDate>
+      
+      <guid>/powershake/</guid>
+      <description>Zutaten  Bananen (2-3*) (Gefrorene-)Beeren (300g*) Chiasamen (2EL*) Gojibeeren (2EL*) Ingwerpulver (1EL*) Macapulver (1EL*) Kakaonibs (2EL*) Maulbeeren (2EL*) Hagebuttenpulver (1EL*) Blütenpollen (1EL*) Acaipulver (1TL*) Nussmus (1EL*) Hanfprotein (1-2EL*) Kollagen (1-2EL*) Creatin (3g*) Wasser/Milch/Wunschflüssigkeit (nach belieben)  *Alle Angaben sind geschätzt und variieren je nach individuellen Bedürfnissen</description>
+    </item>
+    
+    <item>
+      <title>Power Bootup</title>
+      <link>/powerbootup/</link>
+      <pubDate>Mon, 15 Jul 2019 23:31:16 +0200</pubDate>
+      
+      <guid>/powerbootup/</guid>
+      <description>Yoga (5-10min) Mobility (5-10min) Handstand (5-10min) Kräftigung (Bentarm/Straightarm) (10-15min) Bauch (5mim) Duschen (15-20min) Meditieren (10-20min) (optional) Essen machen (20-30min) (optional) Essen (20min)  Gesamt: 55-140 min</description>
+    </item>
+    
+  </channel>
+</rss>
