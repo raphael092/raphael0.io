@@ -1,6 +1,6 @@
 [submodule "themes/solar-theme-hugo"]
 	path = themes/solar-theme-hugo
-	url = git@github.com:raphael092/solar-theme-hugo.git
+	url = https://github.com/raphael092/solar-theme-hugo.git
 [submodule "themes/bethebestyou-theme-hugo"]
 	path = themes/bethebestyou-theme-hugo
-	url = git@github.com:raphael092/bethebestyou-theme-hugo.git
+	url = https://github.com/raphael092/bethebestyou-theme-hugo.git
