@@ -7,10 +7,7 @@ pygmentsStyle = "solarized-dark256" # solarized-light, -dark or -dark256
 [params]
   scheme = "dark" # light, dark or gray
   description = "Place to share Information and explore new Tech"
-  theme = "bethebestyou-hugo"
-# paginate = 5
-# pygmentsStyle = "solarized-dark256" # solarized-light, -dark or -dark256
-
+  
 [menu]
   [[menu.main]]
     name = "Feed"
