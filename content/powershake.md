@@ -1,8 +1,10 @@
----
-title: "Powershake"
-date: 2019-07-18T20:09:34+02:00
-draft: false 
----
++++
+title = "Powershake"
+date = 2019-07-18T20:09:34+02:00
+draft = false
++++
+
+
 # Zutaten
 + Bananen (2-3*)
 + (Gefrorene-)Beeren (300g*)

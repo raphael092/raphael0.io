@@ -1,8 +1,10 @@
----
-title: "Power Bootup"
-date: 2019-07-15T23:31:16+02:00
-draft: false
----
++++
+title = "Power Bootup"
+date = 2019-07-15T23:31:16+02:00
+draft = false
++++
+
+
 * Yoga (5-10min)
 * Mobility (5-10min)
 * Handstand (5-10min)

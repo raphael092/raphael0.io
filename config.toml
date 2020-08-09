@@ -1,8 +1,9 @@
 title = "thoughts"
-# bethebestyou-theme-hugo solar-theme-hugo
-theme = "solar-theme-hugo"
+theme = "solar-theme-hugo" # bethebestyou-theme-hugo solar-theme-hugo
 paginate = 5
 pygmentsStyle = "solarized-dark256" # solarized-light, -dark or -dark256
+baseurl = "http://raphael0.io"
+languageCode = "de"
 
 [params]
   scheme = "dark" # light, dark or gray
@@ -19,24 +20,21 @@ pygmentsStyle = "solarized-dark256" # solarized-light, -dark or -dark256
     weight = "0"
   [[menu.other]]
     name = "Code"
-    url = "https://github.com/raphael092"
+    url = "https://github.com/raphael0io"
   [[menu.other]]
     name = "Faceit"
-    url = "https://www.faceit.com/de/players/pawN_0"
+    url = "https://www.faceit.com/de/players/raphael0io"
   [[menu.other]]
     name = "Instagram"
-    url = "https://www.instagram.com/raphael0/"
+    url = "https://www.instagram.com/raphael0io/"
   [[menu.other]]
     name = "Medium"
-    url = "https://medium.com/@raphael0"
-  [[menu.other]]
-    name = "Nextcloud"
-    url = "https://nextcloud.raphael0.io"
+    url = "https://medium.com/@raphael0io"
   [[menu.other]]
     name = "Reddit"
     url = "https://old.reddit.com/user/raphael_0/"
   [[menu.other]]
     name = ""
     url = ""
-languageCode = "de"
+
 
