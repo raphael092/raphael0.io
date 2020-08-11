@@ -2,7 +2,8 @@ title = "thoughts"
 theme = "solar-theme-hugo" # bethebestyou-theme-hugo solar-theme-hugo
 paginate = 5
 pygmentsStyle = "solarized-dark256" # solarized-light, -dark or -dark256
-baseurl = "http://raphael0.io"
+#baseurl = "http://raphael0.io"
+baseurl = "http://raphael0.io.website-eu-central-1.linodeobjects.com/"
 languageCode = "de"
 
 [params]
@@ -12,7 +13,7 @@ languageCode = "de"
 [menu]
   [[menu.main]]
     name = "Feed"
-    url = "/"
+    url = "/index.xml"
     weight = "-100"
   [[menu.main]]
     name = "#bethebestyou"
