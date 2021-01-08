@@ -12,7 +12,7 @@ languageCode = "de"
   
 [menu]
   [[menu.main]]
-    name = "Feed"
+    name = "RSS-Feed"
     url = "/index.xml"
     weight = "-100"
   [[menu.main]]
